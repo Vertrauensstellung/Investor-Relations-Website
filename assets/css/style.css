@@ -1,9 +1,14 @@
 body {
     background-color: #000000;
-	color: #FFFFFF;
+	color: #CB9B51;
 	font-family: Ubuntu;
 }
 
+hr {
+    height: 2px;
+    background-color: #CB9B51;
+    border: none;
+}
 a:link {
     color: #FFFFFF;
 	text-decoration: none;
