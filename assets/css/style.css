@@ -19,12 +19,14 @@ a:visited {
 }
 
 a:hover {
-    color: rgb(255, 105, 223);
+    /*color: rgb(255, 105, 223);*/
+    color: #CB9B51;
     text-decoration: underline;
 }
   
 a:active {
-    color: rgb(255, 105, 223);
+    /*color: rgb(255, 105, 223);*/
+    color: #CB9B51;
 }
 
 /* ubuntu-regular - latin */
